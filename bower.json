@@ -1,0 +1,12 @@
+{
+  "name": "laravel-bootstrap-4",
+  "version": "1.0.0",
+  "authors": [
+    "My Name <my-name@domain.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0",
+    "jquery": "~2.1.4"
+  }
+}
