@@ -1,2 +1,5 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+//Override stuff for
+@import "bootstrap-overrides";
 
+// Import Bootstrap 4 (alpha)
+@import "../vendor/bootstrap/scss/bootstrap";
